@@ -1,7 +1,8 @@
 # AplikasiPenghitungKata
  Latihan 5 - (Muhammad Fajar Fitrianto_2210010748)
+ 
 Kelas : 5B NonReg Banjarmasin
-Here’s the translation of the `README.md` draft into Bahasa Indonesia:
+
 
 ---
 
