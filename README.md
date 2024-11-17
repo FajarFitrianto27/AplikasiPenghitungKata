@@ -1,5 +1,5 @@
 # AplikasiPenghitungKata
- Latihan 5 - (Muhammad Fajar Fitrianto_2210010748)
+ Tugas 5 - (Muhammad Fajar Fitrianto_2210010748)
  
 Kelas : 5B NonReg Banjarmasin
 
